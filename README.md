@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center"> <h1>Olá, meu nome é Mia Luz!</h1>
+<h3> Apaixonada em Front-End e à procura de um emprego como dev.</h3>
+</div>
 
 <!--
 **mialuzmia/mialuzmia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
