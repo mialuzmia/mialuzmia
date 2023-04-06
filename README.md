@@ -1,5 +1,7 @@
-<div align="center"> <h1>Olá, meu nome é Mia Luz!</h1>
-<h3> Apaixonada em Front-End e à procura de um emprego como dev.</h3>
+
+<div align="center"> 
+<h1>Olá, meu nome é Mia Luz!</h1>
+<p><em> Apaixonada em Front-End e à procura de um emprego como dev.<em></p>
 </div>
 
 <!--
