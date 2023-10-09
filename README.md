@@ -1,7 +1,7 @@
 
 <div align="center"> 
 <h1>Olá, meu nome é Mia Luz!</h1>
-<p><em> Apaixonada em Front-End e à procura de um emprego como dev.<em></p>
+<p><em> Apaixonada em Front-End e em transição de carreira para o mercado tech.<em></p>
 </div>
 
 <!--
